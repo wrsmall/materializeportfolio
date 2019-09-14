@@ -15,7 +15,7 @@ image{
 }
 .carousel .carousel-item{
     visibility: hidden;
-    width: 300px;
+    width: 400px;
     height: fit-content;
     position: absolute;
     top: 0;
