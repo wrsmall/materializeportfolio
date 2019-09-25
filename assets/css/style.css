@@ -1,6 +1,9 @@
 main{
     padding-left: 21%;
 }
+p{
+    margin:0px;
+}
 .height{
     height: 685px;
     margin-top:.5%;
