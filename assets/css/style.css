@@ -1,6 +1,10 @@
 main{
     padding-left: 21%;
 }
+p{
+    margin-block-start: .5%;
+    margin-block-end: .5%;
+}
 .height{
     height: 685px;
     margin-top:.5%;
